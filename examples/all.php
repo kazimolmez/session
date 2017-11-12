@@ -1,13 +1,13 @@
 <?php
 
-$start = microtime(true);
+
 
 require_once __DIR__.'/bootstrap.php';
 
 
 use TT\Session\Session;
 
-
+$start   = microtime(true);
 
 $session = new Session();
 
