@@ -1,0 +1,23 @@
+{
+    "name": "samirrustamov/session",
+    "description": "php session library",
+    "type": "library",
+    "keywords": ["php","session","library"],
+    "homepage": "http://github.com/SamirRustamov/Session",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Samir Rustamov",
+            "email": "rustemovv96@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4":{
+          "TT\\":"src/"
+        }
+    }
+}
