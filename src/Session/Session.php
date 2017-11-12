@@ -7,7 +7,6 @@
 
 
 use TT\Session\SessionHandlerFile;
-use TT\Session\SessionHandlerDB;
 use TT\Session\SessionInterface;
 
 
