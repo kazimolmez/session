@@ -1,5 +1,5 @@
 {
-    "name": "samirrustamov/session",
+    "name": "srustamov/session",
     "description": "php session library",
     "type": "library",
     "keywords": ["php","session","library"],
